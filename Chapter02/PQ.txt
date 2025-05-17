@@ -1,0 +1,3 @@
+## Practice Qs 3
+sovle : 
+int a = 1.999999;
